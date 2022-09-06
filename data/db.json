@@ -1,0 +1,18 @@
+{
+    "IGOR": {
+        "paid": 60,
+        "due": 100
+    },
+    "JELENA": {
+        "paid": 70,
+        "due" : 60
+    },
+    "PETAR": {
+        "paid": 0,
+        "due": 0
+    },
+    "MILICA": {
+        "paid": 50,
+        "due": 120
+    }
+}

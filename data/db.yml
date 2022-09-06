@@ -1,0 +1,16 @@
+---
+# YAML allowes commnets
+
+IGOR:
+  paid: 60
+  due: 100
+MILICA:
+  paid: 100
+  due: 200
+JELENA: 
+  paid: 17
+  due: 5
+PETAR:
+  paid: 100
+  due: 400
+...

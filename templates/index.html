@@ -1,0 +1,18 @@
+<!doctype html>
+
+    <body>  
+        <form action="" method="post">
+                
+            <h2><p>Enter account ID : <input type="text" name="acct_id"></p></h2>
+            <p><button type="submit">Submit</button></p>
+            {% if acct_balance is not none %}
+            <p>Account ballance : {{ acct_balance }}, for account {{acct_id}} </p>
+            <p>{{igor_test}}</p>
+            {% else %}
+            <p>nepoznat nalog. pokusajte ponovo</p>
+            {% endif %}
+                  
+        </form>             
+     </body>   
+     
+</html>
